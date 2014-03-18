@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: b3c4fe77de40348998500873fa091a14
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: title
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 139
+        width: 214
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_white
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_yellow
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_purple
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_blue
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_red
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_green
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_cyan
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_orange
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_silver
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: block_gold
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: powerup_i
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ball
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: powerup_1up
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: text_1up
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 74
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 51
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: revive_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: revive_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 28
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: revive_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: revive_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_long_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 7
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_long_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_long_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: paddle_long_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: btn_exit
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 68
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: btn_play
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: txt_game_over
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 176
+        width: 140
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: txt_continue
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 155
+        width: 131
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
